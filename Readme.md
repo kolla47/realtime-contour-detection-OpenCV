@@ -1,5 +1,6 @@
 ## Real time contour detector 
-1. Create a program to read individual frames from your webcam.
+### Aim
+1. To create a program to read individual frames from your webcam.
 2. To extract the users contour.
 (a) point the camera against a static background.
 (b) Move away from the camera and let it capture one background frame.
